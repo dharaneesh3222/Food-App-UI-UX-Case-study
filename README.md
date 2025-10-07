@@ -1,6 +1,34 @@
-# Food-App-UI-UX-Case-study
-This project showcases the complete UI/UX design for a food ordering mobile application, created using Figma
+# 🍽️ Food Ordering App (UI/UX Design)
 
-🔗 **Figma Design Link:** [Click here to view the design](https://www.figma.com/design/P9bvcRDZhJId9pYcglyqYU/Untitled?node-id=1-1282&t=ubc3g4Fq9r6A2cNz-1)
+![App Preview](cover-image.png)
 
-![Cover Image](page1.png)
+### 📖 Overview
+This is a UI/UX design project for a **food ordering mobile application**, created using **Figma**.  
+The design focuses on simplicity, smooth navigation, and a delightful user experience for browsing, ordering, and tracking food.
+
+---
+
+### ⭐ Features
+- Clean and modern user interface  
+- Easy food browsing with categories  
+- Add to cart and order placement screens  
+- Real-time order tracking  
+- Profile and dietary preference options  
+
+---
+
+### 🛠️ Tools Used
+- Figma  
+- Canva
+- ChatGPT
+- Pinterest
+- Behance
+
+---
+
+### 🔗 View Design
+[Click here to open in Figma](https://www.figma.com/design/P9bvcRDZhJId9pYceJqyVU/Untitled?node-id=1-1282&t=ubc3g4FqPr6a2cNz-1)
+
+---
+
+*Designed by Dharaneeshwar  
