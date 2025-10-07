@@ -1,6 +1,6 @@
 # 🍽️ Food Ordering App (UI/UX Design)
 
-![App Preview](cover-image.png)
+![App Preview](page1.png)
 
 ### 📖 Overview
 This is a UI/UX design project for a **food ordering mobile application**, created using **Figma**.  
