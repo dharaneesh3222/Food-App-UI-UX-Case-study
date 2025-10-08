@@ -27,7 +27,7 @@ The design focuses on simplicity, smooth navigation, and a delightful user exper
 ---
 
 ### 🔗 View Design
-[Click here to open in Figma](https://www.figma.com/design/P9bvcRDZhJId9pYceJqyVU/Untitled?node-id=1-1282&t=ubc3g4FqPr6a2cNz-1)
+[Click here to open in Figma](https://www.figma.com/design/P9bvcRDZhJId9pYcglyqYU/Untitled?node-id=0-1&t=pJkg9vZ6GLLWQhMM-1)
 
 ---
 
